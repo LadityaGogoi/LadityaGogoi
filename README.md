@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img align="right" margin-top="20px" height="250px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 ### I am a student at National Institue of Technology, Silchar
 <ul>
