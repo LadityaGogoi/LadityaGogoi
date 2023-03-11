@@ -12,7 +12,7 @@
 ### I am a student at National Institue of Technology, Silchar
 <ul>
   <li>
-    🔭 I’m currently working on my Portfolio Website :grin:
+    🔭 I’m currently working on my Portfolio :grin:
   </li>
   <li>
     I’m currently learning Backend Development and Blockchain Development.
