@@ -15,7 +15,7 @@
     🔭 I’m currently working on my Portfolio :grin:
   </li>
   <li>
-    I’m currently learning Backend Development and Blockchain Development.
+    learning Backend Development and Blockchain Development.
   </li>
   <li>
     2023 Goals: Contribute to Open Source projects
