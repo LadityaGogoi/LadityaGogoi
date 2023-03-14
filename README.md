@@ -35,10 +35,4 @@
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobi29&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lobi29&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lobi29&theme=holi-theme">
 </p>
