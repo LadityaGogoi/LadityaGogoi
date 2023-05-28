@@ -5,8 +5,8 @@
 ---
 
 - 📍 I’m From India (Assam)
-- 💻 5+ months Experience in Front-end Development
-- 👨‍💻 Front-end Enthusiast & Volunteer
+- 💻 5+ months Experience in Full Stack Development
+- 👨‍💻 Web3 Enthusiast
 
 ### 💻 Tech Stack:
 
