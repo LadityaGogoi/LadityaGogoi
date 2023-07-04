@@ -1,12 +1,12 @@
 <img src="./assets/gif.gif" alt="gif" />
 
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&color=fffff&size=30&lines=Hey!+It's+Laditya!+👋;I'm+a+Full+stack+Developer;And+a+Blockchain+enthusiast)  <img align="right" src="https://komarev.com/ghpvc/?username=Lobi29&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&color=fffff&size=30&lines=Hey!+It's+Laditya!+👋;I'm+a+Full+stack+Developer;a+React-Native+Developer;And+a+ML+enthusiast)  <img align="right" src="https://komarev.com/ghpvc/?username=Lobi29&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
 
 ---
 
 - 📍 I’m From India (Assam)
-- 💻 5+ months Experience in Full Stack Development
-- 👨‍💻 Web3 Enthusiast
+- 💻 5+ months Experience in MERN Stack and React-Native development
+- 👨‍💻 ML Enthusiast
 
 ### 💻 Tech Stack:
 
@@ -21,6 +21,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
+<img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+
 
 ### 🛠 Tools:
 
