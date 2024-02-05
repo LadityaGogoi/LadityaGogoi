@@ -1,11 +1,12 @@
 <img src="./assets/gif.gif" alt="gif" />
 
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&color=fffff&size=30&lines=Hey!+It's+Laditya!+👋;I'm+a+Full+stack+Developer;a+React-Native+Developer;And+a+ML+enthusiast)  <img align="right" src="https://komarev.com/ghpvc/?username=Lobi29&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&color=fffff&size=30&lines=Hey!+It's+Laditya!+👋;I'm+a+Full+stack+Developer;an+android+developer;And+a+ML+enthusiast)  <img align="right" src="https://komarev.com/ghpvc/?username=Lobi29&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
 
 ---
 
-- 📍 I’m From India (Assam)
-- 💻 5+ months Experience in MERN Stack and React-Native development
+- 📍 I’m From India
+- 💻 1+ Years Experience in Full Stack Development and
+- 💻 6+ Months Experience in Android Development
 - 👨‍💻 ML Enthusiast
 
 ### 💻 Tech Stack:
@@ -24,6 +25,10 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+<img alt="python" src="http://ForTheBadge.com/images/badges/made-with-python.svg" />&nbsp;
+<img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
+<img alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;
+<img alt="kotlin" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;
 
 ### 🛠 Tools:
 
@@ -32,16 +37,3 @@
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
 ---
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Lobi29&theme=algolia" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lobi29&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
