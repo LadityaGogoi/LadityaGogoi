@@ -1,12 +1,12 @@
 <img src="./assets/gif.gif" alt="gif" />
 
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&color=fffff&size=30&lines=Hey!+It's+Laditya!+👋;I'm+a+Full+stack+Developer;an+android+developer;And+a+ML+enthusiast)  <img align="right" src="https://komarev.com/ghpvc/?username=Lobi29&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&color=fffff&size=30&lines=Hey!+It's+Laditya!+👋;I'm+a+Full+stack+Developer;a+React+Native+developer;And+a+ML+enthusiast)  <img align="right" src="https://komarev.com/ghpvc/?username=Lobi29&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
 
 ---
 
 - 📍 I’m From India
 - 💻 1+ Years Experience in Full Stack Development and
-- 💻 6+ Months Experience in Android Development
+- 💻 6+ Months Experience in React Native Development
 - 👨‍💻 ML Enthusiast
 
 ### 💻 Tech Stack:
