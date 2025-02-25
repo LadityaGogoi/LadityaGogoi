@@ -5,8 +5,8 @@
 ---
 
 - 📍 I’m From India
-- 💻 2+ Years Experience in Full Stack Development and
-- 💻 1+ Years Experience in React Native Development
+- 💻 3+ Years Experience in Full Stack Development and
+- 💻 2+ Years Experience in React Native Development
 - 👨‍💻 ML Enthusiast
 
 ### 💻 Tech Stack:
